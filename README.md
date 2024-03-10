@@ -1,2 +1,4 @@
 # branching
 branch
+
+## project notes
